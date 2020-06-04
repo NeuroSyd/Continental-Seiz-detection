@@ -1,0 +1,25 @@
+# file: params_04.txt
+#
+# An implementation of a TCP montage for files whose format follows
+# the 01_tcp_ar format in TUH EEG.
+#
+
+# set version information:
+#  version: "1.0"
+#
+version = 1.0
+
+# define a TCP montage
+#
+MONTAGE {
+ channel_selection = (null)
+ match_mode = partial
+ montage = 0, F3-C3:  EEG F3-REF  --  EEG C3-REF
+ montage = 1, P3-O1:  EEG P3-REF  --  EEG O1-REF
+}
+
+#------------------------------------------------------------------------------
+#
+# end of file
+#
+#------------------------------------------------------------------------------
