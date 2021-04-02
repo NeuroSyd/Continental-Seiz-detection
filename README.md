@@ -5,7 +5,7 @@ The code implemented for 2020 Neureka-Epilepsy-Challenge paper.
 Seizure Event Detection using minimum electrodes.
 
 [Paper version 1 release here](https://github.com/NeuroSyd/Neureka-2020-Epilepsy-Challenge/blob/master/Two-Channel%20Epileptic%20Seziure%20Detection%20with%20Blended%20Multi-Time%20Segements%20Electroencephalography%20(EEG)%20Spectrogram.pdf)
-
+Please cite: https://www.biorxiv.org/content/10.1101/2021.03.07.433990v1
 
 ## Preprocessing
 Load raw eeg data using STFT
