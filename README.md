@@ -1,4 +1,4 @@
-# Neureka-2020-Epilepsy-Challenge
+# Neureka-2020-Epilepsy-Challenge && Continental generalization of an AI system for clinical seizure recognition
 
 The code implemented for 2020 Neureka-Epilepsy-Challenge paper.
 
