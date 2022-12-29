@@ -6,7 +6,7 @@ Seizure Event Detection using minimum electrodes.
 
 [Paper version 1 release here](https://www.researchgate.net/publication/350387463_Two-Channel_Epileptic_Seizure_Detection_with_Blended_Multi-Time_Segments_Electroencephalography_Spectrogram)
 
-Please cite: https://www.biorxiv.org/content/10.1101/2021.03.07.433990v2
+Please cite: https://www.sciencedirect.com/science/article/abs/pii/S0957417422012817
 
 "Continental generalization of an AI system for clinical seizure recognition"
 
