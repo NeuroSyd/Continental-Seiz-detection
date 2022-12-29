@@ -25,7 +25,7 @@ python ICA_load_data_elec.py
 ```
 ## Model Training
 ```python
-python --mode=train
+python main.py --mode=train
 ```
 ## Pretrained Model
 Conv-LSTM pretrained model:
